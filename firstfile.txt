@@ -1,1 +1,4 @@
 my first file and first commit
+second change and second commit
+CHANGES HERE
+INSIDE VS CODE
